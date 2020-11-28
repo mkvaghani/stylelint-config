@@ -25,12 +25,12 @@
     "@commitlint/config-conventional": "^11.0.0",
     "@sourcegraph/prettierrc": "^3.0.3",
     "husky": "^4.2.5",
-    "prettier": "^2.0.5",
+    "prettier": "^2.2.1",
     "semantic-release": "^17.0.8",
     "stylelint": "^13.7.2"
   },
   "dependencies": {
-    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-scss": "^3.17.2"
   },
